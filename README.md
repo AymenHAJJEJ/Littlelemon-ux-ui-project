@@ -1,4 +1,3 @@
-# Littlelemon-ux-ui-project
 # Little Lemon – Reserve a Table (UX/UI Final Project)
 
 This project is a UX/UI design prototype for Little Lemon, a fictional Mediterranean restaurant. It was created as the final assessment for the Coursera Front-End Developer Capstone project.
