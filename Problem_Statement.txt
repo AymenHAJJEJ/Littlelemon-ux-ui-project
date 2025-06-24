@@ -1,1 +1,5 @@
-Placeholder content for Problem_Statement.txt
+Problem Statement
+------------------
+The Little Lemon mobile website currently lacks an online table reservation feature, which creates friction for users who want to book in advance.
+This inconvenience can lead to lost customers and missed opportunities. This project aims to design and implement an accessible and user-friendly
+"Reserve a Table" feature, allowing users to book a table by selecting the date, time, and number of guests—all through an intuitive mobile experience.
