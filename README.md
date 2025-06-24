@@ -1,40 +1,61 @@
 # Little Lemon – Reserve a Table (UX/UI Final Project)
 
-This project is a UX/UI design prototype for Little Lemon, a fictional Mediterranean restaurant. It was created as the final assessment for the Coursera Front-End Developer Capstone project.
+This project is part of the Coursera UX/UI Design specialization. It focuses on improving the user experience for **table reservations** on the Little Lemon mobile website.
 
-## 📌 Problem Statement
+---
 
-The Little Lemon mobile website currently lacks an online table reservation feature. This creates inconvenience for users who prefer to book in advance without making a phone call. This project designs a simple and accessible "Reserve a Table" flow to enhance the user experience and reduce friction.
+## 📝 Project Summary
 
-## 🧑‍🎨 UX Deliverables
+Little Lemon currently does not offer online table reservations. This project identifies the problem, defines the user, and proposes a high-fidelity prototype that includes a smooth, accessible reservation experience.
 
-### ✅ 1. User Persona
-A fictional user profile representing the target audience for this feature.  
-**Name:** Sarah Thompson  
-**Age:** 34  
-**Occupation:** Marketing Manager  
-**Goals:** Easily book tables on mobile during work hours.  
-**Frustrations:** Dislikes calling restaurants or using confusing booking forms.
+---
 
-### ✅ 2. User Journey Map
-A step-by-step visualization of Sarah’s journey — from discovering the site to receiving reservation confirmation — including emotions and improvement opportunities.
+## 📂 Included Files
 
-### ✅ 3. Wireframes
-Low-fidelity grayscale layouts of key screens:
-- Home Screen with “Reserve a Table” button
-- Reservation Form (date, time, guests, contact)
-- Confirmation Screen
+- `User_Persona.pdf`: A detailed persona describing the target user including name, photo, age, occupation, goals, needs, and frustrations.
+- `User_Journey_Map.pdf`: A journey map showing each step the user takes from discovering the restaurant to making a reservation and visiting it.
+- `Wireframes.png`: Wireframe designs of the reservation flow showing key screens.
+- `LittleLemon_Prototype.fig`: A high-fidelity interactive prototype built in Figma that reflects the user flow and wireframes.
+- `Problem_Statement.txt`: A clear definition of the problem being solved in this design project.
 
-### ✅ 4. High-Fidelity Prototype
-Interactive, mobile-friendly prototype created in Figma following the Little Lemon style guide. It includes:
-- Responsive layout
-- Accessible form components
-- Transitions between reservation flow steps
+---
 
-## 🧰 Tools Used
-- Figma (for wireframes and prototype)
-- Git & GitHub (for version control and sharing)
-- Markdown (for documentation)
+## ✅ Rubric Coverage
 
-## 📁 File Structure
+This project addresses all required rubric points including:
+
+- Persona with name, photo, demographic and behavioral details
+- Bio, needs, and frustrations clearly listed
+- Journey map with full user experience flow including actions, thoughts, feelings, and improvement opportunities
+- Two connected wireframes:
+  - Table Reservation screen (date, time, diners, submit)
+  - Customer Details screen (name, contact info, submit)
+- High-fidelity prototype with:
+  - Accurate styling
+  - Interactive components (buttons, input fields)
+  - Navigation between pages
+  - Inputs for date, time, and diners
+
+---
+
+## 🔧 Tools Used
+
+- **Figma** – Wireframing and prototyping
+- **Adobe Acrobat / PDF Tools** – For creating persona and journey map
+- **Markdown** – Project documentation
+
+---
+
+## 🚀 How to Open the Prototype
+
+1. Open the `LittleLemon_Prototype.fig` file in [Figma](https://figma.com)
+2. Explore interactive flows through the "Reserve a Table" process
+
+---
+
+## 🙋‍♀️ About the Author
+
+This project was designed and developed by **[Your Name Here]** as part of the Coursera UX/UI Specialization Final Project. Feedback is welcome!
+
+
 
