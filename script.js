@@ -1,10 +1,17 @@
-var food = "Pizza";
+var cookie = document.querySelector("#popup");
 
-function chooseLunch(element) {
-    console.log("You picked : " + element.value);
-    food = element.value;
+function purchase(){
+    alert("Your cart is empty");
 }
 
-function change(){
-    alert("You Choose : " + food);
+function change(element){
+    element.src = "images/assets/succulents-2.jpg";
+}
+
+function reset(element){
+    element.src = "images/assets/succulents-1.jpg";
+}
+
+function hide_popup(){
+cookie.remove();
 }
